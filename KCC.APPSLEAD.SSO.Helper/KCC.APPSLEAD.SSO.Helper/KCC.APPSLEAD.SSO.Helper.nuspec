@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+	  <id>KCC.APPSLEAD.SSO.Helper</id>
+	  <version>2.0.0</version>
+	  <title>KCC APPSLEAD SSO Helper</title>
+	  <authors>Xzyl Rey T. Arpon</authors>
+	  <owners>KCC Corporate MIS</owners>
+
+	  <license type="expression">MIT</license>
+	  <projectUrl>https://github.com/xzylreyarpon/KCC.APPSLEAD.SSO.HELPER</projectUrl>
+	  <iconUrl>https://kccmalls.com/_assets/images/5fc3b2924563fca98a5ca9c7ee22c609.png</iconUrl>
+	  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	  
+    <description>
+      Secure Single Sign-On Helper Library for KCC CAP and child applications.
+      Includes AES encryption/decryption, token encoding/decoding, and Oracle-based
+      centralized key storage compatible with .NET Framework 4.5 systems.
+    </description>
+    <releaseNotes>Initial stable release.</releaseNotes>
+    <copyright>KCC MIS</copyright>
+    
+    <!-- Framework support -->
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework="net45" />
+      <frameworkAssembly assemblyName="System.Web" targetFramework="net45" />
+    </frameworkAssemblies>
+
+    <!-- NuGet Dependencies -->
+    <dependencies>
+      <dependency id="Oracle.ManagedDataAccess" version="12.1.2400" />
+      <dependency id="Newtonsoft.Json" version="12.0.3" />
+    </dependencies>
+  </metadata>
+
+  <files>
+
+    <!-- Main library output -->
+    <file src="bin\Release\KCC.APPSLEAD.SSO.Helper.dll" target="lib\net45" />
+
+    <!-- Include your package App.config (optional) -->
+    <file src="App.config" target="contentFiles\any\net45\" />
+
+    <!-- Include your README (optional) -->
+    <file src="../../README.md" target="content" />
+
+  </files>
+</package>

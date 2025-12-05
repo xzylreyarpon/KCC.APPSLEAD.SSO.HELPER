@@ -1,0 +1,3 @@
+cd "C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper"
+
+nuget pack KCC.APPSLEAD.SSO.Helper.nuspec -Prop Configuration=Release

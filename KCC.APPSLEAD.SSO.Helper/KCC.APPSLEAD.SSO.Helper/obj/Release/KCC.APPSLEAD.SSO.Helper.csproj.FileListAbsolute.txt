@@ -1,0 +1,11 @@
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\bin\Release\KCC.APPSLEAD.SSO.Helper.dll.config
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\bin\Release\KCC.APPSLEAD.SSO.Helper.dll
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\bin\Release\KCC.APPSLEAD.SSO.Helper.pdb
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\bin\Release\Newtonsoft.Json.dll
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\bin\Release\Newtonsoft.Json.xml
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\obj\Release\KCC.APPSLEAD.SSO.Helper.csproj.AssemblyReference.cache
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\obj\Release\KCC.APPSLEAD.SSO.Helper.csproj.CoreCompileInputs.cache
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\obj\Release\KCC.APPS.EF335F05.Up2Date
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\obj\Release\KCC.APPSLEAD.SSO.Helper.dll
+C:\Users\MIS\Documents\Github\KCC.APPSLEAD.SSO.HELPER\KCC.APPSLEAD.SSO.Helper\KCC.APPSLEAD.SSO.Helper\obj\Release\KCC.APPSLEAD.SSO.Helper.pdb
